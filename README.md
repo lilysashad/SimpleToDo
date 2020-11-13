@@ -1,10 +1,10 @@
-**Simple To-Do List** is an Android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple To-Do List** is an Android app that allows users to build a todo list. This app contains basic todo items management functionality, including adding new items, editing, and deleting an existing item.
 
-Submitted by: **Lily D**
+Submitted by: **Lily Deng**
 
 Time spent: **8** hours spent in total
 
-## User Stories
+## To-Do List App functionalities
 
 The following **required** functionality is completed:
 
@@ -25,8 +25,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 Spent a good minute or two trying to fix the file read/write because I didn't realize I had to specify the Apache Commons IO library.
 
