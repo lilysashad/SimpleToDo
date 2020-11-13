@@ -2,7 +2,7 @@
 
 Submitted by: **Lily Deng**
 
-Time spent: **8** hours spent in total
+Time spent: **6** hours spent in total
 
 ## To-Do List App functionalities
 
